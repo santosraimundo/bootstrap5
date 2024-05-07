@@ -14,4 +14,6 @@ header{
 }
 input[type = 'button']{
     margin: 10px;
+    font-weight: 900;
+    cursor: pointer;
 }
