@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   
+}
+body{
+    box-shadow:  inset 0px 0px 4px black;
+    margin: 20px;
+}
+.red{
+    box-shadow: inset 0px 0px 4px red;
+}
+.yellow{
+    box-shadow: inset 0px 0px 4px yellow;
+}
+.blue{
+    box-shadow: inset 0px 0px 4px blue;
+}
