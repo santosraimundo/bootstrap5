@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+body{
+    border: solid 1px black;
+}
+div{
+    border: solid 1px #f40404;
+}
