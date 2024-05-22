@@ -14,8 +14,9 @@ html,body{
     border: solid 2px white;
     margin: 10px;
 }
-.col{
-    box-shadow: inset 3px 3px 2px red;
+.red{
+    border: solid 2px yellow;
+    margin: 10px;
     
     
 }
