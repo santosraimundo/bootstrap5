@@ -4,3 +4,19 @@
 body{
     border: solid 1px black;
 }
+.first{
+    background-color: darkgreen;
+    color: white;
+}
+.second{
+    background-color: darkcyan;
+    color: white;
+}
+.third{
+    background-color: darkgoldenrod;
+    color: white;
+}
+.fourth{
+    background-color: darkblue;
+    color: white;
+}
