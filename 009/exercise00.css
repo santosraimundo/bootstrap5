@@ -1,2 +1,17 @@
 
 @charset "UTF-8";
+
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    border: 1px solid black;
+    margin-top:20px ;
+    padding: 20px;
+}
+h1{
+    border: 2px solid blue;
+   
+}
