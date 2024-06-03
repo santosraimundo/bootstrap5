@@ -10,8 +10,13 @@ header{
     border: 1px solid black;
     margin-top:20px ;
     padding: 20px;
+   
 }
 h1{
     border: 2px solid blue;
+    
    
+}
+main{
+    margin-top:20px;
 }
