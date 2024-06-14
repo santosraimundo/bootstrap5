@@ -5,10 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Table with Bootstrap</title>
     <link rel="stylesheet" href="assets/bootstrap.min.css">
+    <style>
+        body{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        table{
+            border: 4px solid black;
+        }
+       
+    </style>
 </head>
 <body>
     <header>
-        <p class="display-1">Formatando o Visual das Tabelas</p>
+        <p class="display-3">Formatando o Visual das Tabelas</p>
     </header>
     <div class="containe">
         <div class="row">
@@ -16,9 +25,9 @@
                 <table class="table table-bordered table-hover table-striped table-primary">
                     <thead class="table table-warning">
                         <tr>
-                            <th>Nome de Cursos</th>
-                            <th>Categoria do Curso</th>
-                            <th>Carga Horária</th>
+                            <th class="text-start">Nome de Cursos</th>
+                            <th class="text-center">Categoria do Curso</th>
+                            <th class="text-end">Carga Horária</th>
                         </tr>
                     </thead>
                     <tbody>
