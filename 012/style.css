@@ -6,10 +6,13 @@
     padding: 0px;
     box-sizing: border-box;
 }
+body{
+    width: 100vw;
+    height: 100vh;
+}
 .row{
     border-radius: 10px;
     margin: 5px;
-
 }
 .bg-danger{
     background-color: #0f0f71 !important;
