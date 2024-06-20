@@ -1,0 +1,19 @@
+
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.row{
+    border-radius: 10px;
+    margin: 5px;
+
+}
+.bg-danger{
+    background-color: #0f0f71 !important;
+}
+.bg-warning{
+    background-color: #2b4848 !important;
+}
